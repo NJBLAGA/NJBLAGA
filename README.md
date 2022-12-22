@@ -10,7 +10,6 @@ strong network of like-minded
 developers who wish to improve and
 grow within the industry.
 </p>
-<br>
 <h3 align="center">-- Tech Stack --</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
