@@ -1,5 +1,6 @@
 <h1 align="center"> Hello, I'm Nathan!</h1>
 <h2 align="center"> -- Creative -- Driven -- Passionate -- </h2>
+<br>
 <h3 align="center">-- About Me --</h3>
 <p align="left">
 A creative, driven and passionate
