@@ -1,8 +1,8 @@
 <h1 align="center"> Hello, I'm Nathan!</h1>
-<h3 align="center">Creative -- Driven -- Passionate</h3>
+<h2 align="center">Creative -- Driven -- Passionate</h2>
 <br>
 <h2 align="center">About Me</h2>
-<p align="center">
+<p align="left">
 A creative, driven and passionate
 developer, determined to build a
 strong network of like-minded
