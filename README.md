@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Nathan!</h1>
 <h2 align="center">Creative -- Driven -- Passionate</h2>
 <br>
-<h3 align="center">-- About Me --</h3>
+<h2 align="center">About Me</h2>
 <p align="center">
 A creative, driven and passionate
 developer, determined to build a
@@ -9,7 +9,7 @@ strong network of like-minded
 developers who wish to improve and
 grow within the industry.
 </p>
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">Tech Stack</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
