@@ -11,11 +11,7 @@
 Create - Innovate - Inspire
 </p>
 <p align="left">
-A creative, driven and passionate
-developer, determined to build a
-strong network of like-minded
-developers who wish to improve and
-grow within the industry.
+Highly motivated software developer with a passion for innovation, continuous growth, and creative problem-solving. Committed to embracing new challenges and creating lasting impact.
 </p>
 <h2 align="center">Tech Stack</h2>
 <p align="center">
