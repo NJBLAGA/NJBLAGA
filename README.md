@@ -1,10 +1,12 @@
 <h1 align="left"> Nathan Blaga (NJBLAGA)</h1>
-<h2 align="left">Create - Innovate - Inspire</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 <br>
 <h2 align="center">About Me</h2>
+<p align="left">
+Create - Innovate - Inspire
+</p>
 <p align="left">
 A creative, driven and passionate
 developer, determined to build a
