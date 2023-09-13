@@ -1,11 +1,14 @@
 <h1 align="left"> Nathan Blaga (NJBLAGA)</h1>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/nathanblaga/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://nathanblaga.me/">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
+
 <br>
+
 <h2 align="left">About Me</h2>
 <p align="left">
 Create - Innovate - Inspire
@@ -13,8 +16,19 @@ Create - Innovate - Inspire
 <p align="left">
 Highly motivated software developer with a passion for innovation, continuous growth, and creative problem-solving. Committed to embracing new challenges and creating lasting impact.
 </p>
-<h2 align="center">Tech Stack</h2>
-<p align="center">
+
+<br>
+
+<h2 align="left">Education</h2>
+
+<p align="left">
+Coder Academy, Australia
+Diploma of Information Technology
+</p>
+
+<h2 align="left">Tech Stack</h2>
+
+<p align="left">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
