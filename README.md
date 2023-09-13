@@ -1,8 +1,9 @@
 <h1 align="left"> Nathan Blaga (NJBLAGA)</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/nathanblaga/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/nathanblaga/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://nathanblaga.me/">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 <br>
 <h2 align="left">About Me</h2>
