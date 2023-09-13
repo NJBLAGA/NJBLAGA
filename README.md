@@ -9,7 +9,8 @@
 
 <h2 align="left">About Me</h2>
 <p align="center">
-- Create - Innovate - Inspire -
+  <i>Create - Innovate - Inspire</i>
+
 </p>
 
 <p align="left">
