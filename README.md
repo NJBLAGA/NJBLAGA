@@ -8,9 +8,10 @@
 </p>
 
 <h2 align="left">About Me</h2>
-<p align="left">
-Create - Innovate - Inspire
+<p align="center">
+- Create - Innovate - Inspire -
 </p>
+
 <p align="left">
 Highly motivated software developer with a passion for innovation, continuous growth, and creative problem-solving. Committed to embracing new challenges and creating lasting impact.
 </p>
@@ -18,7 +19,8 @@ Highly motivated software developer with a passion for innovation, continuous gr
 <h2 align="left">Education</h2>
 
 <p align="left">
-Coder Academy, Australia <br>
+Coder Academy, Australia 
+<br>
 Diploma of Information Technology
 </p>
 
