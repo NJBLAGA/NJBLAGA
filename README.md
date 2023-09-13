@@ -24,12 +24,12 @@ Diploma of Information Technology
 
 <h2 align="left">Hobbies</h2>
 <p align="left">
-<ol>
+<ul>
   <li>Powerlifting</li>
   <li>Hiking</li>
   <li>Linux Ricing </li>
   <li>Learning</li>
-</ol>
+</ul>
 </p>
 
 
