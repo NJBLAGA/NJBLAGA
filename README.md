@@ -18,7 +18,7 @@ Highly motivated software developer with a passion for innovation, continuous gr
 <h2 align="left">Education</h2>
 
 <p align="left">
-Coder Academy, Australia
+Coder Academy, Australia <br>
 Diploma of Information Technology
 </p>
 
