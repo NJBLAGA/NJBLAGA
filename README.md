@@ -10,20 +10,28 @@
 <h2 align="left">About Me</h2>
 <p align="center">
   <i>Create - Innovate - Inspire</i>
-
 </p>
-
 <p align="left">
 Highly motivated software developer with a passion for innovation, continuous growth, and creative problem-solving. Committed to embracing new challenges and creating lasting impact.
 </p>
 
 <h2 align="left">Education</h2>
-
 <p align="left">
 Coder Academy, Australia 
 <br>
 Diploma of Information Technology
 </p>
+
+<h2 align="left">Hobbies</h2>
+<p align="left">
+<ol>
+  <li>Powerlifting</li>
+  <li>Hiking</li>
+  <li>Linux Ricing </li>
+  <li>Learning</li>
+</ol>
+</p>
+
 
 <h2 align="left">Tech Stack</h2>
 
