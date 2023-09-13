@@ -1,9 +1,11 @@
 <h1 align="left"> Nathan Blaga (NJBLAGA)</h1>
 <p align="center">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/nathanblaga/">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+  </a>
 </p>
 <br>
-<h2 align="center">About Me</h2>
+<h2 align="left">About Me</h2>
 <p align="left">
 Create - Innovate - Inspire
 </p>
