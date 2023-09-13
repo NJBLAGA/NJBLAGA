@@ -7,8 +7,6 @@
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
-<br>
-
 <h2 align="left">About Me</h2>
 <p align="left">
 Create - Innovate - Inspire
@@ -16,8 +14,6 @@ Create - Innovate - Inspire
 <p align="left">
 Highly motivated software developer with a passion for innovation, continuous growth, and creative problem-solving. Committed to embracing new challenges and creating lasting impact.
 </p>
-
-<br>
 
 <h2 align="left">Education</h2>
 
