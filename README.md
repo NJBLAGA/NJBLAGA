@@ -1,7 +1,7 @@
 <h1 align="left"> Nathan Blaga (NJBLAGA)</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/nathanblaga/">
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 <br>
