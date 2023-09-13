@@ -1,4 +1,4 @@
-<h1 align="left"> Hi, I'm Nathan!</h1>
+<h1 align="left"> Nathan Blaga (NJBLAGA)</h1>
 <h2 align="left">Create - Innovate - Inspire</h2>
 <br>
 <h2 align="center">About Me</h2>
