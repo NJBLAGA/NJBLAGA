@@ -17,9 +17,7 @@ Highly motivated software developer with a passion for innovation, continuous gr
 
 <h2 align="left">Education</h2>
 <p align="left">
-Coder Academy, Australia 
-<br>
-Full Stack Web Development
+Coder Academy, Australia - Full Stack Web Development
 </p>
 
 <h2 align="left">Hobbies</h2>
