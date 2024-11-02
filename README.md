@@ -12,14 +12,14 @@
   <i>Create - Innovate - Inspire</i>
 </p>
 <p align="left">
-Highly motivated software developer with a passion for innovation, continuous growth, and creative problem-solving. Committed to embracing new challenges and creating lasting impact.
+Highly motivated software developer with a passion for innovation, continuous growth, and creative problem-solving. Passionate about tackling new challenges and making a lasting impact, with a strong foundation in building reliable and efficient code that powers high-impact projects.
 </p>
 
 <h2 align="left">Education</h2>
 <p align="left">
 Coder Academy, Australia 
 <br>
-Diploma of Information Technology
+Full Stack Web Development
 </p>
 
 <h2 align="left">Hobbies</h2>
