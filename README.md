@@ -8,11 +8,8 @@
 </p>
 
 <h2 align="left">About Me</h2>
-<p align="center">
-  <i>Create - Innovate - Inspire</i>
-</p>
 <p align="left">
-Highly motivated software developer with a passion for innovation, continuous growth, and creative problem-solving. Passionate about tackling new challenges and making a lasting impact, with a strong foundation in building reliable and efficient code that powers high-impact projects.
+Hey, I'm Nathan — a full-stack developer with over 6 years of experience building and shipping production-grade solutions. I've worked across data engineering, marketing automation, and systems integration, seeing projects through from design all the way to deployment. These days I'm focused on a modern JavaScript and TypeScript stack, and I'm excited about where AI is taking software development. Outside of work you'll find me under a barbell, out on a trail, or deep in a Linux config rabbit hole.
 </p>
 
 <h2 align="left">Education</h2>
