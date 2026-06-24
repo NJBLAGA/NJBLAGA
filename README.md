@@ -9,7 +9,7 @@
 
 <h2 align="left">About Me</h2>
 <p align="left">
-Hey, I'm Nathan. I've spent the last 5+ years building software in the marketing technology and data space, working across integrations, automation, and production systems. I'm focused on building full-stack applications using modern JavaScript and TypeScript, while exploring how AI is shaping software development. Outside of work you'll find me under a barbell, out on a trail, or deep in a Linux config rabbit hole.
+Hey, I'm Nathan. I've spent the last 5+ years building software in the marketing technology and data space, delivering solutions that integrate systems, automate workflows, and support production environments. I'm focused on building full-stack applications using modern JavaScript and TypeScript, while exploring how AI is shaping software development. Outside of work you'll find me under a barbell, out on a trail, or deep in a Linux config rabbit hole.
 </p>
 
 <h2 align="left">Education</h2>
